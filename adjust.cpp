@@ -42,10 +42,11 @@
 #include <vector>
 #include <opencv2/opencv.hpp>
 
-void processGroupedCircles(const std::vector<std::vector<cv::Vec3f>>& groupedCircles) {
+
+void processGroupedCircles(std::vector<std::vector<cv::Vec3f>>& groupedCircles) {
     // 遍历每组
     for (size_t i = 0; i < groupedCircles.size(); ++i) {
-        const auto& group = groupedCircles[i]; // 当前组
+        auto& group = groupedCircles[i]; // 当前组，直接修改 groupedCircles[i]
         if (group.size() <= 1) {
             // 如果组中点数少于等于1，则跳过
             continue;
@@ -74,25 +75,25 @@ void processGroupedCircles(const std::vector<std::vector<cv::Vec3f>>& groupedCir
                   << averageAdjustedDiff << "\n";
 
         // 第一部：每组的每个点减去自身的diff
-        std::vector<cv::Vec3f> adjustedGroup = group; // 拷贝当前组，用于修改
-        for (size_t j = 1; j < adjustedGroup.size(); ++j) {
-            float currentX = adjustedGroup[j][0];
+        for (size_t j = 1; j < group.size(); ++j) {
+            float currentX = group[j][0];
             float diff = currentX - firstX;
-            adjustedGroup[j][0] = currentX - diff; // 将 x 坐标减去自身的 diff
-            std::cout << "Adjusted Point " << j + 1 << ": x = " << adjustedGroup[j][0] << "\n";
+            group[j][0] = currentX - diff; // 将 x 坐标减去自身的 diff
+            std::cout << "Adjusted Point " << j + 1 << ": x = " << group[j][0] << "\n";
         }
 
         // 第二部：根据 averageAdjustedDiff 进行调整
-        size_t n = adjustedGroup.size(); // 每组点的数量
-        for (size_t j = 0; j < adjustedGroup.size(); ++j) {
+        size_t n = group.size(); // 每组点的数量
+        for (size_t j = 0; j < group.size(); ++j) {
             float adjustmentFactor = (j == 0) ? (averageAdjustedDiff / n) : ((j * averageAdjustedDiff) / (n - 1));
-            adjustedGroup[j][0] += adjustmentFactor; // 根据位置调整每个点
-            std::cout << "Adjusted Point " << j + 1 << ": x = " << adjustedGroup[j][0] << ", adjustmentFactor = " << adjustmentFactor << "\n";
+            group[j][0] += adjustmentFactor; // 根据位置调整每个点
+            std::cout << "Adjusted Point " << j + 1 << ": x = " << group[j][0] << ", adjustmentFactor = " << adjustmentFactor << "\n";
         }
 
         std::cout << "\n";
     }
 }
+
 
 
 void swapXYInGroupedCircles(std::vector<std::vector<cv::Vec3f>>& groupedCircles) {
