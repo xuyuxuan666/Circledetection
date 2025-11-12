@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcluster_GMY.a CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o
+/usr/bin/ranlib libcluster_GMY.a

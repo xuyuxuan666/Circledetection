@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcluster_c5.a CMakeFiles/cluster_c5.dir/src/C5/Cluster.cpp.o CMakeFiles/cluster_c5.dir/src/C5/Anchor.cpp.o CMakeFiles/cluster_c5.dir/src/C5/Grid.cpp.o CMakeFiles/cluster_c5.dir/src/C5/MergeFilter.cpp.o CMakeFiles/cluster_c5.dir/src/C5/OutputInterface_C5.cpp.o CMakeFiles/cluster_c5.dir/src/C5/ShapeDetectionAPI_C5.cpp.o
+/usr/bin/ranlib libcluster_c5.a

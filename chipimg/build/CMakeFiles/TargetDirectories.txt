@@ -1,0 +1,11 @@
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/cluster_c5.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/C5.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/cluster_4X.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/X4.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/cluster_GMY.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/GMY.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/cluster_PG.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/PG.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/std.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/edit_cache.dir
+/home/xuan/桌面/project/chipImg/build/CMakeFiles/rebuild_cache.dir

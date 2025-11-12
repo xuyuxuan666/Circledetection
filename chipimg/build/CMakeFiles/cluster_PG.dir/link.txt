@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcluster_PG.a CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o
+/usr/bin/ranlib libcluster_PG.a

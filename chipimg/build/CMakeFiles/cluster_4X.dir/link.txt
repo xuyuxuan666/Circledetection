@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcluster_4X.a CMakeFiles/cluster_4X.dir/src/4X/Cluster_4X.cpp.o CMakeFiles/cluster_4X.dir/src/4X/Anchor_4X.cpp.o CMakeFiles/cluster_4X.dir/src/4X/Grid_4X.cpp.o CMakeFiles/cluster_4X.dir/src/4X/MergeFilter_4X.cpp.o CMakeFiles/cluster_4X.dir/src/4X/OutputInterface_4X.cpp.o CMakeFiles/cluster_4X.dir/src/4X/ShapeDetectionAPI_4X.cpp.o
+/usr/bin/ranlib libcluster_4X.a
