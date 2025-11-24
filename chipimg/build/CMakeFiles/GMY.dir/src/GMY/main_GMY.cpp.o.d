@@ -1,5 +1,5 @@
 CMakeFiles/GMY.dir/src/GMY/main_GMY.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/GMY/main_GMY.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/main_GMY.cpp \
  /usr/include/stdc-predef.h /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \
@@ -361,9 +361,9 @@ CMakeFiles/GMY.dir/src/GMY/main_GMY.cpp.o: \
  /usr/include/opencv4/opencv2/video.hpp \
  /usr/include/opencv4/opencv2/video/tracking.hpp \
  /usr/include/opencv4/opencv2/video/background_segm.hpp \
- /home/xuan/桌面/project/chipImg/include/Cluster_GMY.h \
- /home/xuan/桌面/project/chipImg/include/Anchor_GMY.h \
- /home/xuan/桌面/project/chipImg/include/Grid_GMY.h \
- /home/xuan/桌面/project/chipImg/include/MergeFilter_GMY.h \
- /home/xuan/桌面/project/chipImg/include/OutputInterface_GMY.h \
- /home/xuan/桌面/project/chipImg/include/ShapeDetectionAPI_GMY.h
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Cluster_GMY.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Anchor_GMY.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Grid_GMY.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/MergeFilter_GMY.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/OutputInterface_GMY.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/ShapeDetectionAPI_GMY.h

@@ -1,7 +1,7 @@
 CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/GMY/Cluster_GMY.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Cluster_GMY.cpp \
  /usr/include/stdc-predef.h \
- /home/xuan/桌面/project/chipImg/include/Cluster_GMY.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Cluster_GMY.h \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

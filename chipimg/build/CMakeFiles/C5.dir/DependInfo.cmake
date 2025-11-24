@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/xuan/桌面/project/chipImg/src/C5/main_C5.cpp" "CMakeFiles/C5.dir/src/C5/main_C5.cpp.o" "gcc" "CMakeFiles/C5.dir/src/C5/main_C5.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/main_C5.cpp" "CMakeFiles/C5.dir/src/C5/main_C5.cpp.o" "gcc" "CMakeFiles/C5.dir/src/C5/main_C5.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

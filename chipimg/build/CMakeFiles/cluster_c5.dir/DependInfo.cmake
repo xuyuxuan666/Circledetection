@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/xuan/桌面/project/chipImg/src/C5/Anchor.cpp" "CMakeFiles/cluster_c5.dir/src/C5/Anchor.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/Anchor.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/C5/Cluster.cpp" "CMakeFiles/cluster_c5.dir/src/C5/Cluster.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/Cluster.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/C5/Grid.cpp" "CMakeFiles/cluster_c5.dir/src/C5/Grid.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/Grid.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/C5/MergeFilter.cpp" "CMakeFiles/cluster_c5.dir/src/C5/MergeFilter.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/MergeFilter.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/C5/OutputInterface_C5.cpp" "CMakeFiles/cluster_c5.dir/src/C5/OutputInterface_C5.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/OutputInterface_C5.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/C5/ShapeDetectionAPI_C5.cpp" "CMakeFiles/cluster_c5.dir/src/C5/ShapeDetectionAPI_C5.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/ShapeDetectionAPI_C5.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/Anchor.cpp" "CMakeFiles/cluster_c5.dir/src/C5/Anchor.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/Anchor.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/Cluster.cpp" "CMakeFiles/cluster_c5.dir/src/C5/Cluster.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/Cluster.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/Grid.cpp" "CMakeFiles/cluster_c5.dir/src/C5/Grid.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/Grid.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/MergeFilter.cpp" "CMakeFiles/cluster_c5.dir/src/C5/MergeFilter.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/MergeFilter.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/OutputInterface_C5.cpp" "CMakeFiles/cluster_c5.dir/src/C5/OutputInterface_C5.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/OutputInterface_C5.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/ShapeDetectionAPI_C5.cpp" "CMakeFiles/cluster_c5.dir/src/C5/ShapeDetectionAPI_C5.cpp.o" "gcc" "CMakeFiles/cluster_c5.dir/src/C5/ShapeDetectionAPI_C5.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

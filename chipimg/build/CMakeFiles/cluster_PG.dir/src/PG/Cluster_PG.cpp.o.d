@@ -1,7 +1,7 @@
 CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/PG/Cluster_PG.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Cluster_PG.cpp \
  /usr/include/stdc-predef.h \
- /home/xuan/桌面/project/chipImg/include/Cluster_PG.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Cluster_PG.h \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

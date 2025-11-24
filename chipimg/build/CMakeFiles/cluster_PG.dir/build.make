@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/xuan/桌面/project/chipImg
+CMAKE_SOURCE_DIR = /home/xuan/桌面/project/chipImg/Circledetection/chipimg
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/xuan/桌面/project/chipImg/build
+CMAKE_BINARY_DIR = /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cluster_PG.dir/depend.make
@@ -70,88 +70,88 @@ include CMakeFiles/cluster_PG.dir/progress.make
 include CMakeFiles/cluster_PG.dir/flags.make
 
 CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o: CMakeFiles/cluster_PG.dir/flags.make
-CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o: /home/xuan/桌面/project/chipImg/src/PG/Cluster_PG.cpp
+CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Cluster_PG.cpp
 CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o: CMakeFiles/cluster_PG.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o -c /home/xuan/桌面/project/chipImg/src/PG/Cluster_PG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Cluster_PG.cpp
 
 CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/PG/Cluster_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Cluster_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.i
 
 CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/PG/Cluster_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Cluster_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.s
 
 CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o: CMakeFiles/cluster_PG.dir/flags.make
-CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o: /home/xuan/桌面/project/chipImg/src/PG/Anchor_PG.cpp
+CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Anchor_PG.cpp
 CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o: CMakeFiles/cluster_PG.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o -c /home/xuan/桌面/project/chipImg/src/PG/Anchor_PG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Anchor_PG.cpp
 
 CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/PG/Anchor_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Anchor_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.i
 
 CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/PG/Anchor_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Anchor_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.s
 
 CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o: CMakeFiles/cluster_PG.dir/flags.make
-CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o: /home/xuan/桌面/project/chipImg/src/PG/Grid_PG.cpp
+CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Grid_PG.cpp
 CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o: CMakeFiles/cluster_PG.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o -c /home/xuan/桌面/project/chipImg/src/PG/Grid_PG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Grid_PG.cpp
 
 CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/PG/Grid_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Grid_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.i
 
 CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/PG/Grid_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Grid_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.s
 
 CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o: CMakeFiles/cluster_PG.dir/flags.make
-CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o: /home/xuan/桌面/project/chipImg/src/PG/MergeFilter_PG.cpp
+CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/MergeFilter_PG.cpp
 CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o: CMakeFiles/cluster_PG.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o -c /home/xuan/桌面/project/chipImg/src/PG/MergeFilter_PG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/MergeFilter_PG.cpp
 
 CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/PG/MergeFilter_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/MergeFilter_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.i
 
 CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/PG/MergeFilter_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/MergeFilter_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.s
 
 CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o: CMakeFiles/cluster_PG.dir/flags.make
-CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o: /home/xuan/桌面/project/chipImg/src/PG/OutputInterface_PG.cpp
+CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/OutputInterface_PG.cpp
 CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o: CMakeFiles/cluster_PG.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o -c /home/xuan/桌面/project/chipImg/src/PG/OutputInterface_PG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/OutputInterface_PG.cpp
 
 CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/PG/OutputInterface_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/OutputInterface_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.i
 
 CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/PG/OutputInterface_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/OutputInterface_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.s
 
 CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o: CMakeFiles/cluster_PG.dir/flags.make
-CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o: /home/xuan/桌面/project/chipImg/src/PG/ShapeDetectionAPI_PG.cpp
+CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/ShapeDetectionAPI_PG.cpp
 CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o: CMakeFiles/cluster_PG.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o -c /home/xuan/桌面/project/chipImg/src/PG/ShapeDetectionAPI_PG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o -MF CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o.d -o CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/ShapeDetectionAPI_PG.cpp
 
 CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/PG/ShapeDetectionAPI_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/ShapeDetectionAPI_PG.cpp > CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.i
 
 CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/PG/ShapeDetectionAPI_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/ShapeDetectionAPI_PG.cpp -o CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.s
 
 # Object files for target cluster_PG
 cluster_PG_OBJECTS = \
@@ -173,7 +173,7 @@ libcluster_PG.a: CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o
 libcluster_PG.a: CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o
 libcluster_PG.a: CMakeFiles/cluster_PG.dir/build.make
 libcluster_PG.a: CMakeFiles/cluster_PG.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library libcluster_PG.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library libcluster_PG.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/cluster_PG.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cluster_PG.dir/link.txt --verbose=$(VERBOSE)
 
@@ -186,6 +186,6 @@ CMakeFiles/cluster_PG.dir/clean:
 .PHONY : CMakeFiles/cluster_PG.dir/clean
 
 CMakeFiles/cluster_PG.dir/depend:
-	cd /home/xuan/桌面/project/chipImg/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/xuan/桌面/project/chipImg /home/xuan/桌面/project/chipImg /home/xuan/桌面/project/chipImg/build /home/xuan/桌面/project/chipImg/build /home/xuan/桌面/project/chipImg/build/CMakeFiles/cluster_PG.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/xuan/桌面/project/chipImg/Circledetection/chipimg /home/xuan/桌面/project/chipImg/Circledetection/chipimg /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles/cluster_PG.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/cluster_PG.dir/depend
 

@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/xuan/桌面/project/chipImg/src/GMY/Anchor_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/GMY/Cluster_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/GMY/Grid_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/GMY/MergeFilter_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/GMY/OutputInterface_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/GMY/ShapeDetectionAPI_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Anchor_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Cluster_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Grid_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/MergeFilter_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/OutputInterface_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/ShapeDetectionAPI_GMY.cpp" "CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o" "gcc" "CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

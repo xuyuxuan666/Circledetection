@@ -1,4 +1,4 @@
-# Install script for directory: /home/xuan/桌面/project/chipImg
+# Install script for directory: /home/xuan/桌面/project/chipImg/Circledetection/chipimg
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/xuan/桌面/project/chipImg/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

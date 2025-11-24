@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/xuan/桌面/project/chipImg/include -isystem /usr/include/opencv4
+CXX_INCLUDES = -I/home/xuan/桌面/project/chipImg/Circledetection/chipimg/include -isystem /usr/include/opencv4
 
 CXX_FLAGS = -O2 -g -DNDEBUG -std=c++17 -fPIC -Wall -Wextra -Wpedantic
 

@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/xuan/桌面/project/chipImg/src/4X/Anchor_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/Anchor_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/Anchor_4X.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/4X/Cluster_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/Cluster_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/Cluster_4X.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/4X/Grid_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/Grid_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/Grid_4X.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/4X/MergeFilter_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/MergeFilter_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/MergeFilter_4X.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/4X/OutputInterface_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/OutputInterface_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/OutputInterface_4X.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/4X/ShapeDetectionAPI_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/ShapeDetectionAPI_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/ShapeDetectionAPI_4X.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/Anchor_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/Anchor_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/Anchor_4X.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/Cluster_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/Cluster_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/Cluster_4X.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/Grid_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/Grid_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/Grid_4X.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/MergeFilter_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/MergeFilter_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/MergeFilter_4X.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/OutputInterface_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/OutputInterface_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/OutputInterface_4X.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/ShapeDetectionAPI_4X.cpp" "CMakeFiles/cluster_4X.dir/src/4X/ShapeDetectionAPI_4X.cpp.o" "gcc" "CMakeFiles/cluster_4X.dir/src/4X/ShapeDetectionAPI_4X.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

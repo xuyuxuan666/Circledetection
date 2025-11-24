@@ -1,7 +1,7 @@
 CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/PG/ShapeDetectionAPI_PG.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/ShapeDetectionAPI_PG.cpp \
  /usr/include/stdc-predef.h \
- /home/xuan/桌面/project/chipImg/include/ShapeDetectionAPI_PG.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/ShapeDetectionAPI_PG.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -363,7 +363,7 @@ CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o: \
  /usr/include/opencv4/opencv2/video.hpp \
  /usr/include/opencv4/opencv2/video/tracking.hpp \
  /usr/include/opencv4/opencv2/video/background_segm.hpp \
- /home/xuan/桌面/project/chipImg/include/Cluster_PG.h \
- /home/xuan/桌面/project/chipImg/include/Anchor_PG.h \
- /home/xuan/桌面/project/chipImg/include/Grid_PG.h \
- /home/xuan/桌面/project/chipImg/include/MergeFilter_PG.h
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Cluster_PG.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Anchor_PG.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Grid_PG.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/MergeFilter_PG.h

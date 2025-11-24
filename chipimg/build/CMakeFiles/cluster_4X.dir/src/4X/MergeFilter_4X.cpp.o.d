@@ -1,7 +1,7 @@
 CMakeFiles/cluster_4X.dir/src/4X/MergeFilter_4X.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/4X/MergeFilter_4X.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/MergeFilter_4X.cpp \
  /usr/include/stdc-predef.h \
- /home/xuan/桌面/project/chipImg/include/MergeFilter_4X.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/MergeFilter_4X.h \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \
@@ -363,6 +363,6 @@ CMakeFiles/cluster_4X.dir/src/4X/MergeFilter_4X.cpp.o: \
  /usr/include/opencv4/opencv2/video.hpp \
  /usr/include/opencv4/opencv2/video/tracking.hpp \
  /usr/include/opencv4/opencv2/video/background_segm.hpp \
- /home/xuan/桌面/project/chipImg/include/Cluster_4X.h \
- /home/xuan/桌面/project/chipImg/include/Anchor_4X.h \
- /home/xuan/桌面/project/chipImg/include/Grid_4X.h
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Cluster_4X.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Anchor_4X.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Grid_4X.h

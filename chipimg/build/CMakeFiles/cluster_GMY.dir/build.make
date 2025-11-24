@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/xuan/桌面/project/chipImg
+CMAKE_SOURCE_DIR = /home/xuan/桌面/project/chipImg/Circledetection/chipimg
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/xuan/桌面/project/chipImg/build
+CMAKE_BINARY_DIR = /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cluster_GMY.dir/depend.make
@@ -70,88 +70,88 @@ include CMakeFiles/cluster_GMY.dir/progress.make
 include CMakeFiles/cluster_GMY.dir/flags.make
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/flags.make
-CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o: /home/xuan/桌面/project/chipImg/src/GMY/Cluster_GMY.cpp
+CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Cluster_GMY.cpp
 CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/src/GMY/Cluster_GMY.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Cluster_GMY.cpp
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/GMY/Cluster_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Cluster_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.i
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/GMY/Cluster_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Cluster_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/Cluster_GMY.cpp.s
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/flags.make
-CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o: /home/xuan/桌面/project/chipImg/src/GMY/Anchor_GMY.cpp
+CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Anchor_GMY.cpp
 CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/src/GMY/Anchor_GMY.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Anchor_GMY.cpp
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/GMY/Anchor_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Anchor_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.i
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/GMY/Anchor_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Anchor_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/Anchor_GMY.cpp.s
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/flags.make
-CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o: /home/xuan/桌面/project/chipImg/src/GMY/Grid_GMY.cpp
+CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Grid_GMY.cpp
 CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/src/GMY/Grid_GMY.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Grid_GMY.cpp
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/GMY/Grid_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Grid_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.i
 
 CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/GMY/Grid_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/Grid_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/Grid_GMY.cpp.s
 
 CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/flags.make
-CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o: /home/xuan/桌面/project/chipImg/src/GMY/MergeFilter_GMY.cpp
+CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/MergeFilter_GMY.cpp
 CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/src/GMY/MergeFilter_GMY.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/MergeFilter_GMY.cpp
 
 CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/GMY/MergeFilter_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/MergeFilter_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.i
 
 CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/GMY/MergeFilter_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/MergeFilter_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/MergeFilter_GMY.cpp.s
 
 CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/flags.make
-CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o: /home/xuan/桌面/project/chipImg/src/GMY/OutputInterface_GMY.cpp
+CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/OutputInterface_GMY.cpp
 CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/src/GMY/OutputInterface_GMY.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/OutputInterface_GMY.cpp
 
 CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/GMY/OutputInterface_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/OutputInterface_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.i
 
 CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/GMY/OutputInterface_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/OutputInterface_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.s
 
 CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/flags.make
-CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o: /home/xuan/桌面/project/chipImg/src/GMY/ShapeDetectionAPI_GMY.cpp
+CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o: /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/ShapeDetectionAPI_GMY.cpp
 CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o: CMakeFiles/cluster_GMY.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/src/GMY/ShapeDetectionAPI_GMY.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o -MF CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o.d -o CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o -c /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/ShapeDetectionAPI_GMY.cpp
 
 CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/src/GMY/ShapeDetectionAPI_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/ShapeDetectionAPI_GMY.cpp > CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.i
 
 CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/src/GMY/ShapeDetectionAPI_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/GMY/ShapeDetectionAPI_GMY.cpp -o CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.s
 
 # Object files for target cluster_GMY
 cluster_GMY_OBJECTS = \
@@ -173,7 +173,7 @@ libcluster_GMY.a: CMakeFiles/cluster_GMY.dir/src/GMY/OutputInterface_GMY.cpp.o
 libcluster_GMY.a: CMakeFiles/cluster_GMY.dir/src/GMY/ShapeDetectionAPI_GMY.cpp.o
 libcluster_GMY.a: CMakeFiles/cluster_GMY.dir/build.make
 libcluster_GMY.a: CMakeFiles/cluster_GMY.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/xuan/桌面/project/chipImg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library libcluster_GMY.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library libcluster_GMY.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/cluster_GMY.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cluster_GMY.dir/link.txt --verbose=$(VERBOSE)
 
@@ -186,6 +186,6 @@ CMakeFiles/cluster_GMY.dir/clean:
 .PHONY : CMakeFiles/cluster_GMY.dir/clean
 
 CMakeFiles/cluster_GMY.dir/depend:
-	cd /home/xuan/桌面/project/chipImg/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/xuan/桌面/project/chipImg /home/xuan/桌面/project/chipImg /home/xuan/桌面/project/chipImg/build /home/xuan/桌面/project/chipImg/build /home/xuan/桌面/project/chipImg/build/CMakeFiles/cluster_GMY.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/xuan/桌面/project/chipImg/Circledetection/chipimg /home/xuan/桌面/project/chipImg/Circledetection/chipimg /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build /home/xuan/桌面/project/chipImg/Circledetection/chipimg/build/CMakeFiles/cluster_GMY.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/cluster_GMY.dir/depend
 

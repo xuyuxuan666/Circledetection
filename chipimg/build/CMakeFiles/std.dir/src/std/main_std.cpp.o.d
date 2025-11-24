@@ -1,5 +1,5 @@
 CMakeFiles/std.dir/src/std/main_std.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/std/main_std.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/std/main_std.cpp \
  /usr/include/stdc-predef.h /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

@@ -1,7 +1,7 @@
 CMakeFiles/cluster_c5.dir/src/C5/OutputInterface_C5.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/C5/OutputInterface_C5.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/C5/OutputInterface_C5.cpp \
  /usr/include/stdc-predef.h \
- /home/xuan/桌面/project/chipImg/include/OutputInterface_C5.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/OutputInterface_C5.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -363,5 +363,5 @@ CMakeFiles/cluster_c5.dir/src/C5/OutputInterface_C5.cpp.o: \
  /usr/include/opencv4/opencv2/video.hpp \
  /usr/include/opencv4/opencv2/video/tracking.hpp \
  /usr/include/opencv4/opencv2/video/background_segm.hpp \
- /home/xuan/桌面/project/chipImg/include/Cluster.h \
- /home/xuan/桌面/project/chipImg/include/MergeFilter.h
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Cluster.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/MergeFilter.h

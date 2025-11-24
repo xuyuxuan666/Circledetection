@@ -1,7 +1,7 @@
 CMakeFiles/cluster_4X.dir/src/4X/Cluster_4X.cpp.o: \
- /home/xuan/桌面/project/chipImg/src/4X/Cluster_4X.cpp \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/4X/Cluster_4X.cpp \
  /usr/include/stdc-predef.h \
- /home/xuan/桌面/project/chipImg/include/Cluster_4X.h \
+ /home/xuan/桌面/project/chipImg/Circledetection/chipimg/include/Cluster_4X.h \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/xuan/桌面/project/chipImg/src/PG/Anchor_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/PG/Cluster_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/PG/Grid_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/PG/MergeFilter_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/PG/OutputInterface_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o.d"
-  "/home/xuan/桌面/project/chipImg/src/PG/ShapeDetectionAPI_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Anchor_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/Anchor_PG.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Cluster_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/Cluster_PG.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/Grid_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/Grid_PG.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/MergeFilter_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/MergeFilter_PG.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/OutputInterface_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/OutputInterface_PG.cpp.o.d"
+  "/home/xuan/桌面/project/chipImg/Circledetection/chipimg/src/PG/ShapeDetectionAPI_PG.cpp" "CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o" "gcc" "CMakeFiles/cluster_PG.dir/src/PG/ShapeDetectionAPI_PG.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
