@@ -101,7 +101,7 @@ static void placeWindow(const std::string& name, int index, int w, int h, int ma
 }
 
 int main(int argc, char** argv) {
-    string path = (argc >= 2) ? string(argv[1]) : string("../Img/NEW/10801.png");
+    string path = (argc >= 2) ? string(argv[1]) : string("../Img/GMY60/GMY60-100u.png");
     Mat src16 = imread(path, IMREAD_UNCHANGED);
     if (src16.empty()) {
         cerr << "❌ 读取失败： " << path << "\n";
@@ -112,12 +112,12 @@ int main(int argc, char** argv) {
         return -1;
     }
 
-    const double low_pct  = 0.0655;
-    const double high_pct = 0.0594;
-    const double gamma_v  = 2.35;
+    const double low_pct  = 0.001;
+    const double high_pct = 0.010;
+    const double gamma_v  = 1.4;
 
     const int area_min = 5;
-    const float EPS    = 37.0f;
+    const float EPS    = 35.0f;
 
     double otsu_th = 0.0;
     uint16_t low_v = 0, high_v = 0;
